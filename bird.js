@@ -45,7 +45,7 @@ FlappyBird.prototype = {
 	obsSpeed: 2, // 障碍物移动速度  
 	obsInterval: 2000, // 制造障碍物间隔ms  
 	upSpeed: 8, // 上升速度  
-	downSpeed: 3, // 下降速度  
+	downSpeed: 4, // 下降速度  
 	line: 56, // 地面高度
 	score: 0, // 得分  
 	touch: false, // 是否触摸
